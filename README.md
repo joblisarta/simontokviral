@@ -1,2 +1,1 @@
-# simontokviral
-simontokviral
+# [simontokviral](https://simontokviral.pages.dev)
