@@ -1,4 +1,4 @@
-export const nama = 'Simontok Viral';
-export const desk = 'Video bokep indo jepang viral ngentot colmek bocil sampai tante.';
+export const nama = 'Smp Cindo';
+export const desk = 'Video Bokep Indo Bocil Ngentot Jilbab Smp Mama Viral Sma Cindo Tante China';
 export const url = 'https://simontokviral.pages.dev';
-export const terbit = '2025-06-23T00:00:00Z';
+export const terbit = '2025-06-23T00:01:03Z';
